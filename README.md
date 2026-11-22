@@ -2,8 +2,8 @@
 
 Responsive task dashboard built with **React + Vite (JavaScript)**, plain CSS and Lucide icons.
 
-- **Live URL:** https://YOUR-APP.vercel.app
-- **GitHub:** https://github.com/mounika-2510/focusboard
+- **Live URL:** [https://focusboard-phi-beryl.vercel.app/](https://focusboard-phi-beryl.vercel.app/)
+- **GitHub:** [https://github.com/mounikadev-26/focusboard/](https://github.com/mounikadev-26/focusboard/)
 
 ## Setup
 ```bash
